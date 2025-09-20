@@ -1,0 +1,9 @@
+services:
+  web:
+    build: ./src
+    environment:
+      - FLAG=vie{wie}
+    ports:
+      - "1337:1337"
+  redis:
+    image: "redis:alpine"

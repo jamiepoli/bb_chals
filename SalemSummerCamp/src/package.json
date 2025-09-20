@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "express": "^5.1.0",
+    "minimatch": "^10.0.3",
+    "redis": "^5.8.2"
+  }
+}
