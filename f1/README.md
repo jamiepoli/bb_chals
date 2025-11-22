@@ -2,8 +2,6 @@
 
 SCUDERIA FERRARI ES MI RELIGIÓN
 
-This is a beginner-friendly challenge meant to encourage players to get familiar with client-side APIs. There will be many that will pop up in a client-side challenge, and in this case, players ideally will learn about a few very common ones through this challenge.
-
 No hints will be given unless no one solves this challenge, in which a public hint may be provided. 
 
 If you find the flag, feel free to DM it to me and I can verify. 
