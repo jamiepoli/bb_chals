@@ -1,0 +1,16 @@
+{
+  "name": "f1",
+  "version": "1.0.0",
+  "description": "SCUDERIA FERRARI ES MI RELIGIÓN",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "serialize-javascript": "^7.0.0"
+  }
+}
