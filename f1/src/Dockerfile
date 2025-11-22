@@ -8,18 +8,6 @@ COPY . ./
 
 RUN npm i
 
-RUN apk add --no-cache \
-    chromium \
-    nss \
-    freetype \
-    harfbuzz \
-    ca-certificates \
-    ttf-freefont \
-    nodejs 
-
-ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true \
-    PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium-browser
-
 ENV FLAG="vie{hi}"
 
 RUN addgroup -S ctf && adduser -S ctf -G ctf

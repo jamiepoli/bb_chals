@@ -1,6 +1,6 @@
 import express from 'express';
 import serialize from 'serialize-javascript';
-import visit from './visit';
+//import visit from './visit';
 
 const app = express();
 const PORT = process.env.port || 8090;
