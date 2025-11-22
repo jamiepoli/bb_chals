@@ -6,9 +6,9 @@
 
 | Challenge                 | Status |
 | ------------------------- | ------ |
-| Vie1                      | ✅     |
+| Vie1                      | 😴     |
 | F1                        | ❌     |
-| Salem Summer Camp         | ❌     |
+| Salem Summer Camp         | ✅     |
 | Cold Brew                 | ❌     |
 
 ### Legend
